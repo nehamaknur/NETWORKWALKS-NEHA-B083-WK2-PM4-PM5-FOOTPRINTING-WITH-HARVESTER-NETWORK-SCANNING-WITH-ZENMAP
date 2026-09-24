@@ -139,7 +139,7 @@ This project successfully demonstrated the practical application of foundational
 
 Overall, the tasks completed under the Networkwalks Cybersecurity Internship successfully bridged theoretical concepts with practical defensive and offensive visibility principles.
 
-## 🛠️ Tools Used
+## 🔗 Resources
 
 - **Oracle VM VirtualBox 7.1.18** — ([Download Link](https://www.virtualbox.org/wiki/Downloads))
 - **Kali Linux 2026.1** — ([Download Link](https://www.kali.org/get-kali/))
